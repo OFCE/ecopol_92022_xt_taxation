@@ -1,6 +1,6 @@
 ---
 title: "3 décennies d'impôts en France"
-author: "Xavier Timbeau"
+author: "Anissa"
 lang: fr
 fig-cap-location: top
 format: 
@@ -22,34 +22,17 @@ bibliography: references.bib
 
 ## Introduction
 
-Les trois dernières décennies en France ont été riches en évènements -- lutte contre le retour de l'inflation à la fin des années 1980, création de l'Union Economique et Monétaire (UEM), éclatement de la bulle internet et crise de 2008/2012 -- et en alternances politiques -- 12 années de pouvoir à la gauche, 13 à la droite, 5 à E.
-Macron que chacun classera où bon lui semble.
+Les trois dernières décennies en France ont été riches en évènements -- lutte contre le retour de l'inflation à la fin des années 1980, création de l'Union Economique et Monétaire (UEM), éclatement de la bulle internet et crise de 2008/2012 -- et en alternances politiques -- 12 années de pouvoir à la gauche, 13 à la droite, 5 à E. Macron que chacun classera où bon lui semble.
 
-Pendant ces trente années, les réformes fiscales ont été un élément central de la politique économique.
-Ce n'est pas le seul, le volet dépense étant très riche également ou les aspects de régulation ou d'intervention dans l'économie.
-Nous nous proposons ici de faire une brève synthèse de ses évolutions en les comparant à celles des pays proches de la France.
-Nous analysons ensuite la redistribution opérée par les prélèvements mais également les transferts, en comparant les évolutions des inégalités avant et après redistribution en France et pour quelques pays développés.
+Pendant ces trente années, les réformes fiscales ont été un élément central de la politique économique. Ce n'est pas le seul, le volet dépense étant très riche également ou les aspects de régulation ou d'intervention dans l'économie. Nous nous proposons ici de faire une brève synthèse de ses évolutions en les comparant à celles des pays proches de la France. Nous analysons ensuite la redistribution opérée par les prélèvements mais également les transferts, en comparant les évolutions des inégalités avant et après redistribution en France et pour quelques pays développés.
 
 ## La structure des prélèvements obligatoires
 
-Le graphique[^1] [-@fig-tax] présente les prélèvements obligatoires en France par rapport à la moyenne des autres Etats membres de l'Union Européenne et des pays développés.
-Le premier élément est un niveau significativement plus élevé en France que dans le reste de l'UE.
-Entre 1990 et 2020, l'écart de taux de prélèvements obligatoires est passé de 4,4% à 7,1% du PIB.
-Alors que le taux de prélèvement obligatoire de l'UE, en moyenne pondérée (voir note du @fig-tax), augmente de 1,7% du PIB sur la période, il s'accroît de 4,3% en France.
+Le graphique[^1] [-@fig-tax] présente les prélèvements obligatoires en France par rapport à la moyenne des autres Etats membres de l'Union Européenne et des pays développés. Le premier élément est un niveau significativement plus élevé en France que dans le reste de l'UE. Entre 1990 et 2020, l'écart de taux de prélèvements obligatoires est passé de 4,4% à 7,1% du PIB. Alors que le taux de prélèvement obligatoire de l'UE, en moyenne pondérée (voir note du @fig-tax), augmente de 1,7% du PIB sur la période, il s'accroît de 4,3% en France.
 
 [^1]: Les graphiques sont reproductibles à partir des codes sources téléchargeables sur github.com/OFCE/ecopol_92022_XT_taxation.
 
-Cette évolution est en partie trompeuse parce que les prélèvements obligatoires intègrent la presque totalité des contributions aux régimes des retraites, alors que ce n'est pas le cas systématiquement dans les autres pays.
-La raison tient aux arrangements institutionnels autour du financement des retraites, plus centralisé et "étatisé" en France qu'ailleurs.
-Le salaire différé (ou l'épargne retraite) d'un salarié Allemand n'est pas moindre que celle d'un salarié Français, pas plus que la redistribution opérée par le système de retraite en France est supérieure à celle du système Allemand.
-En revanche, cela conduit facialement à un taux plus élevé en France qu'en Allemagne.
-Il existe des pays dans lesquels le système de retraite est moins socialisé, avec moins de contraintes, de garanties ou d'incitations, et où l'épargne retraite repose sur un effort de prévoyance individuel -- c'est le cas aux Etats-Unis ou en Corée du Sud.
-Un autre argument pour séparer ces contributions est qu'elles conduisent en in transfert et dan ce sens sont différentes des financements des dépenses collectives.
-En effet, le prélèvement pour transfert a pour contre partie un revenu, qui peut à nouveau être taxer, comme c'est le cas pour les pensions de retraite, soumise à la sortie à l'impôt sur le revenu.
-D'autres prélèvements correspondent à des transferts, comme ceux finançant les prestations sociales comme les allocations familiales, les revenus minimums ou les allocations pour handicapés.
-Il est difficile de retracer toutes les prestations de transfert, on se contente donc usuellement de mettre à part la retraite et éventuellement les allocations chômage.
-Une raison est que l'effet redistributif est généralement faible sur le cycle de vie puisque ce sont des cotisations contributives et qu'elles transfèrent du revenu entre individus mais aussi entre le même individu à des périodes différentes de son existence.
-C'est ce qui justifie la convention employée ensuite (cf. infra) pour mesurer la redistribution opérée par le système fiscalo-social.
+Cette évolution est en partie trompeuse parce que les prélèvements obligatoires intègrent la presque totalité des contributions aux régimes des retraites, alors que ce n'est pas le cas systématiquement dans les autres pays. La raison tient aux arrangements institutionnels autour du financement des retraites, plus centralisé et "étatisé" en France qu'ailleurs. Le salaire différé (ou l'épargne retraite) d'un salarié Allemand n'est pas moindre que celle d'un salarié Français, pas plus que la redistribution opérée par le système de retraite en France est supérieure à celle du système Allemand. En revanche, cela conduit facialement à un taux plus élevé en France qu'en Allemagne. Il existe des pays dans lesquels le système de retraite est moins socialisé, avec moins de contraintes, de garanties ou d'incitations, et où l'épargne retraite repose sur un effort de prévoyance individuel -- c'est le cas aux Etats-Unis ou en Corée du Sud. Un autre argument pour séparer ces contributions est qu'elles conduisent en in transfert et dan ce sens sont différentes des financements des dépenses collectives. En effet, le prélèvement pour transfert a pour contre partie un revenu, qui peut à nouveau être taxer, comme c'est le cas pour les pensions de retraite, soumise à la sortie à l'impôt sur le revenu. D'autres prélèvements correspondent à des transferts, comme ceux finançant les prestations sociales comme les allocations familiales, les revenus minimums ou les allocations pour handicapés. Il est difficile de retracer toutes les prestations de transfert, on se contente donc usuellement de mettre à part la retraite et éventuellement les allocations chômage. Une raison est que l'effet redistributif est généralement faible sur le cycle de vie puisque ce sont des cotisations contributives et qu'elles transfèrent du revenu entre individus mais aussi entre le même individu à des périodes différentes de son existence. C'est ce qui justifie la convention employée ensuite (cf. infra) pour mesurer la redistribution opérée par le système fiscalo-social.
 
 ```{r, echo=FALSE}
 #| label: fig-tax
@@ -58,27 +41,13 @@ C'est ce qui justifie la convention employée ensuite (cf. infra) pour mesurer l
 knitr::include_graphics("svg/taxg.svg")
 ```
 
-Pour prendre en compte cette spécificité de contributions sociales, la figure [-@fig-tax] est construite en mettant les contributions sociales et la CSG au-dessus des autres prélèvements -- il aurait été préférable de n'exclure que les cotisations retraites et chômage, mais la comparaison internationale est plus complexe.
-Hors CSG et autres contributions sociales, les prélèvements obligatoires en France représentent 25,7% du PIB en 2020, ce qui est le maximum atteint sur la période.
-Pour les 26 autres pays de l'Union Européenne, ce taux est de 25,1% en 2020 et le maximum a été atteint en 1990 avec 25,4% du PIB.
-La différence avec la France est faible.
-La @fig-tax nous montre également que le taux de prélèvement obligatoire est plus fluctuant en France que dans la moyenne des pays de l'UE.
-Une raison tient à ce que la taux de prélèvement obligatoire varie en fonction de la conjoncture, par la fluctuation des bases et les effets de progressivité (notamment pour l'IRPP, impôt sur le revenu des personnes physiques, et l'IS, impôt sur les sociétés).
-Les fluctuations et les autres tendances sont lissées par la moyenne sur plusieurs pays.
+Pour prendre en compte cette spécificité de contributions sociales, la figure [-@fig-tax] est construite en mettant les contributions sociales et la CSG au-dessus des autres prélèvements -- il aurait été préférable de n'exclure que les cotisations retraites et chômage, mais la comparaison internationale est plus complexe. Hors CSG et autres contributions sociales, les prélèvements obligatoires en France représentent 25,7% du PIB en 2020, ce qui est le maximum atteint sur la période. Pour les 26 autres pays de l'Union Européenne, ce taux est de 25,1% en 2020 et le maximum a été atteint en 1990 avec 25,4% du PIB. La différence avec la France est faible. La @fig-tax nous montre également que le taux de prélèvement obligatoire est plus fluctuant en France que dans la moyenne des pays de l'UE. Une raison tient à ce que la taux de prélèvement obligatoire varie en fonction de la conjoncture, par la fluctuation des bases et les effets de progressivité (notamment pour l'IRPP, impôt sur le revenu des personnes physiques, et l'IS, impôt sur les sociétés). Les fluctuations et les autres tendances sont lissées par la moyenne sur plusieurs pays.
 
-On identifie ainsi une période d'accroissement de 1993 à 1999, liée à l'entrée dans la monnaie unique et aux respect des critères de Maastricht qui ont obligé à un effort de réduction des déficits.
-La hausse des prélèvements sur cette période est de 2,5% et on observe pas un mouvement comparable dans les autres Etats membres de l'Union Européenne.
-De 2000 à 2010, les prélèvements obligatoires, hors cotisations et CSG, ont été réduit nettement.
-La baisse des taux d'intérêt, une conjoncture plus favorable et une application plus laxe des critères de Maastricht combiné à un financement des comptes sociaux par la CSG dont le poids s'accroît expliquent cette évolution jusqu'en 2008.
+On identifie ainsi une période d'accroissement de 1993 à 1999, liée à l'entrée dans la monnaie unique et aux respect des critères de Maastricht qui ont obligé à un effort de réduction des déficits. La hausse des prélèvements sur cette période est de 2,5% et on observe pas un mouvement comparable dans les autres Etats membres de l'Union Européenne. De 2000 à 2010, les prélèvements obligatoires, hors cotisations et CSG, ont été réduit nettement. La baisse des taux d'intérêt, une conjoncture plus favorable et une application plus laxe des critères de Maastricht combiné à un financement des comptes sociaux par la CSG dont le poids s'accroît expliquent cette évolution jusqu'en 2008.
 
 Les différents gouvernements (dont la chronologie est rappelée en [-@tbl-chronic]) ont ainsi accompagné ce mouvement par des choix aux conséquences redistributives différentes (cf. infra).
 
-Entre 2008 et 2009, la tendance à la baisse des prélèvements obligatoires est accentuée par la relance de l'économie française.
-Cette réponse de politique économique.
-Le taux de prélèvements obligatoires hors CSG et cotisations sociales devient en France plus bas (21,6% du PIB) que dans la moyenne des autres Etats membres de l'UE (23,7% du PIB) mais plus haut que la moyenne des pays développés (voir note @fig-tax) en 2009 (19,8% du PIB).
-Depuis 2009, la réduction des déficits a marqué les politiques économiques avec une remontée des taux de prélèvements jusqu'en 2017.
-La politique fiscale suivie par les gouvernements d'Emmanuel Macron a consisté a abaisser la fiscalité des entreprises et du capital et dans un deuxième temps, à travers par exemple la suppression de la taxe d'habitation aux ménages.
-La bascule du CICE en baisse de cotisations sociales a induit une baisse significative du taux de prélèvements obligatoires en 2019 et sa remontée en 2020.
+Entre 2008 et 2009, la tendance à la baisse des prélèvements obligatoires est accentuée par la relance de l'économie française. Cette réponse de politique économique. Le taux de prélèvements obligatoires hors CSG et cotisations sociales devient en France plus bas (21,6% du PIB) que dans la moyenne des autres Etats membres de l'UE (23,7% du PIB) mais plus haut que la moyenne des pays développés (voir note @fig-tax) en 2009 (19,8% du PIB). Depuis 2009, la réduction des déficits a marqué les politiques économiques avec une remontée des taux de prélèvements jusqu'en 2017. La politique fiscale suivie par les gouvernements d'Emmanuel Macron a consisté a abaisser la fiscalité des entreprises et du capital et dans un deuxième temps, à travers par exemple la suppression de la taxe d'habitation aux ménages. La bascule du CICE en baisse de cotisations sociales a induit une baisse significative du taux de prélèvements obligatoires en 2019 et sa remontée en 2020.
 
 +-----------+---------------------------------------------------------+------------------------+------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Période   | Président                                               | Majorité parlementaire | Principales réformes fiscales et redistributives                             | Contexte                                                                                                                                                                                                   |
@@ -137,26 +106,18 @@ La bascule du CICE en baisse de cotisations sociales a induit une baisse signifi
 : Chronologie des prélèvements 1988-2022 {#tbl-chronic}
 
 ::: compact
-Sources : F.
-Ecalle, Fipeco, L'évolution des prélèvements obligatoires depuis 30 ans; fipeco.fr ; Service des Archives économiques et financières (SAEF), www.economie.gouv.fr/saef ; Archives de la lettre et de la revue de l'OFCE 1982-2022
+Sources : F. Ecalle, Fipeco, L'évolution des prélèvements obligatoires depuis 30 ans; fipeco.fr ; Service des Archives économiques et financières (SAEF), www.economie.gouv.fr/saef ; Archives de la lettre et de la revue de l'OFCE 1982-2022
 :::
 
 ## La redistribution par l'impôt et les transferts
 
-En suivant la méthodologie de Bozio et al (2018)[^2], on utilise les données du World Inequality Database[^3] pour constuire la @fig-redist. Cette figure retrace les évolutions des inégalités après redistribution au cours de la période 1990-2020, quantifiées sur l'axe des *x* par le ratio entre le revenu disponible moyen des 10% les plus riches sur le revenu disponible moyen des 90% les moins riches
-.
+En suivant la méthodologie de Bozio et al (2018)[^2], on utilise les données du World Inequality Database[^3] pour constuire la @fig-redist. Cette figure retrace les évolutions des inégalités après redistribution au cours de la période 1990-2020, quantifiées sur l'axe des *x* par le ratio entre le revenu disponible moyen des 10% les plus riches sur le revenu disponible moyen des 90% les moins riches .
 
 [^2]: Bozio, Garbinti, Goupille-Lebret, Guillot, Piketty, Inequality and Redistribution in France, 1990-2018: Evidence from Post-Tax Distributional National Accounts (DINA); World Inequality Lab -- Working Paper N° 2020/22, première version juillet 2018
 
 [^3]: https://wid.world/bulk_download/wid_all_data.zip
 
-Différentes hypothèses sont faites pour l'incidence fiscale et l'imputation des revenus (notamment les revenus non distribués des entreprises qui sont affectés aux ménages à hauteur des actions détenues).
-Ces hypothèses peuvent être discutées et feront sans doute l'objet de raffinements dans de prochaines versions des comptes distributionnels.
-Elles sont cependant identiques dans tous les pays concernés et constantes au cours du temps.
-Les revenus secondaires considérés ici sont hors redistribution par la dépense collective (comme les infrastructures) et des transferts en nature (comme l'éducation).
-Les prélèvements pris en compte le sont, par les hypothèses d'incidence, dans une acception large.
-L'impact de la taxation du patrimoine ou encore de la fiscalité indirecte jouent donc sur la redistribution -- le premier dans un sens de plus de progressivité, le second dans un sens de plus de régressivité.
-La modification de la redistribution peut se faire dans des dimensions qui ne se résument pas au revenu : La bascule de la CSG opérée en 2018, en 1999, 1998 et 1997 induit un transfert de revenu disponible des détenteurs de patrimoine ou de revenus de remplacement (dont la retraite) vers les actifs.
+Différentes hypothèses sont faites pour l'incidence fiscale et l'imputation des revenus (notamment les revenus non distribués des entreprises qui sont affectés aux ménages à hauteur des actions détenues). Ces hypothèses peuvent être discutées et feront sans doute l'objet de raffinements dans de prochaines versions des comptes distributionnels. Elles sont cependant identiques dans tous les pays concernés et constantes au cours du temps. Les revenus secondaires considérés ici sont hors redistribution par la dépense collective (comme les infrastructures) et des transferts en nature (comme l'éducation). Les prélèvements pris en compte le sont, par les hypothèses d'incidence, dans une acception large. L'impact de la taxation du patrimoine ou encore de la fiscalité indirecte jouent donc sur la redistribution -- le premier dans un sens de plus de progressivité, le second dans un sens de plus de régressivité. La modification de la redistribution peut se faire dans des dimensions qui ne se résument pas au revenu : La bascule de la CSG opérée en 2018, en 1999, 1998 et 1997 induit un transfert de revenu disponible des détenteurs de patrimoine ou de revenus de remplacement (dont la retraite) vers les actifs.
 
 ```{r, echo=FALSE}
 #| label: fig-redist
@@ -166,74 +127,34 @@ La modification de la redistribution peut se faire dans des dimensions qui ne se
 knitr::include_graphics("svg/redist.svg")
 ```
 
-Le ratio entre le revenu disponible moyen des 10% les plus riches et celui des 90% autres varie dans une plage importante entre les pays.
-Il a été le plus bas, un peu inférieur à 4 aux Pays-Bas en 1982 et supérieur à 11 aux Etats-Unis en 2020.
-Dans la plupart des pays considérés, on constate une tendance nette à l'accroissement des inégalités, considérable aux Etats-Unis, en Italie ou en Allemagne et net en Espagne ou en Grande Bretagne.
-La France échappe à ce diagnostic avec une grande stabilité des inégalités de revenu disponible, après redistribution.
-D'autres indicateurs d'inégalité (indice de Gini, de Theil, d'autres ratios interdéciles) conduisent au même diagnostic, tant qu'on ne regarde pas les évolutions des très hauts revenus (dernier millille de la distribution ou au-delà).
-En revanche, la stabilité des inégalités en France résiste à presque tous les indicateurs.
+Le ratio entre le revenu disponible moyen des 10% les plus riches et celui des 90% autres varie dans une plage importante entre les pays. Il a été le plus bas, un peu inférieur à 4 aux Pays-Bas en 1982 et supérieur à 11 aux Etats-Unis en 2020. Dans la plupart des pays considérés, on constate une tendance nette à l'accroissement des inégalités, considérable aux Etats-Unis, en Italie ou en Allemagne et net en Espagne ou en Grande Bretagne. La France échappe à ce diagnostic avec une grande stabilité des inégalités de revenu disponible, après redistribution. D'autres indicateurs d'inégalité (indice de Gini, de Theil, d'autres ratios interdéciles) conduisent au même diagnostic, tant qu'on ne regarde pas les évolutions des très hauts revenus (dernier millille de la distribution ou au-delà). En revanche, la stabilité des inégalités en France résiste à presque tous les indicateurs.
 
-La périodisation est la même que celle du tableau [-@tbl-chronic].
-On a vu dans la section précédente que les grandes orientations de politique économique -- l'entrée dans l'Union monétaire et économique en est une sans conteste -- et les grands élèvements conjoncturels dépassent les seules volontés politiques.
-Il est intéressant de constater que cette périodisation ne produit pas de rupture majeure pour la France.
+La périodisation est la même que celle du tableau [-@tbl-chronic]. On a vu dans la section précédente que les grandes orientations de politique économique -- l'entrée dans l'Union monétaire et économique en est une sans conteste -- et les grands élèvements conjoncturels dépassent les seules volontés politiques. Il est intéressant de constater que cette périodisation ne produit pas de rupture majeure pour la France.
 
-L'axe des *y* sur la @fig-redist représente la réduction entre inégalité primaire, avant redistribution, et inégalité après redistribution.
-La mesure est donc la réduction relative du ratio entre revenu primaire des 10% et des autres et du même ratio appliqué au revenu après redistribution.
-Pour la France dans la période considérée, la redistribution réduit autour de 40% les inégalités.
-Au cours de la période considérée, l'impact redistributif du système fiscalo-social français a tendance à se renforcer.
-Les analyses récentes sur les effets redistributifs des réformes fiscales conduites par l'OFCE, l'IPP[^4] ou encore publiées par la DGTrésor dans le Rapport Economique, Social et Financier permettent une exploration plus fine des mécanismes à l'œuvre.
-On pourrait croire que la réduction de la fiscalité du capital (ISF, PFU) allait avoir un effet fort en matière d'inégalité.
-En fait, d'une part les montants concernés par ces réformes sont assez faibles (moins de 10 milliards d'euros, soit moins d'un demi point de PIB), mais en plus ils sont contrebalancés par d'autres effets.
-La suppression de la taxe d'habitation ou la bascule des cotisations sociales vers la CSG ont également un effet redistributif.
-Ce que montre les analyses de l'IPP ou de l'OFCE c'est que les réformes ont réduit récemment les impôts dans tous les déciles de la population.
-Il faut regarder uniquement les très hauts revenus pour espérer un effet majeur sur la redistribution.
-Mais Bozio a montré que l'assiette de l'ISF était en fait "très percée" sur le haut de la distribution des revenus et donc que la suppression de l'ISF joue marginalement .
+L'axe des *y* sur la @fig-redist représente la réduction entre inégalité primaire, avant redistribution, et inégalité après redistribution. La mesure est donc la réduction relative du ratio entre revenu primaire des 10% et des autres et du même ratio appliqué au revenu après redistribution. Pour la France dans la période considérée, la redistribution réduit autour de 40% les inégalités. Au cours de la période considérée, l'impact redistributif du système fiscalo-social français a tendance à se renforcer. Les analyses récentes sur les effets redistributifs des réformes fiscales conduites par l'OFCE, l'IPP[^4] ou encore publiées par la DGTrésor dans le Rapport Economique, Social et Financier permettent une exploration plus fine des mécanismes à l'œuvre. On pourrait croire que la réduction de la fiscalité du capital (ISF, PFU) allait avoir un effet fort en matière d'inégalité. En fait, d'une part les montants concernés par ces réformes sont assez faibles (moins de 10 milliards d'euros, soit moins d'un demi point de PIB), mais en plus ils sont contrebalancés par d'autres effets. La suppression de la taxe d'habitation ou la bascule des cotisations sociales vers la CSG ont également un effet redistributif. Ce que montre les analyses de l'IPP ou de l'OFCE c'est que les réformes ont réduit récemment les impôts dans tous les déciles de la population. Il faut regarder uniquement les très hauts revenus pour espérer un effet majeur sur la redistribution. Mais Bozio a montré que l'assiette de l'ISF était en fait "très percée" sur le haut de la distribution des revenus et donc que la suppression de l'ISF joue marginalement .
 
 [^4]: Dernière analayse de l'IPP : Dutronc-Postel, Fabre, Lallemand, Loisel, Puschnig : Effets redistributifs des mesures socio-fiscales du quinquennat 2017-2022 à destination des ménages, note de l'IPP n°82, mars 2022.
 
     Dernière analyse de l'OFCE : Madec, Plane, Sampognaro : Une analyse micro et macro du pouvoir d'achat des ménages en France, Bilan du quinquennat mis en perpective, policy brief de l'OFCE n°104, mars 2022.
 
-L'analyse de l'OFCE du quinquennat 2017-2022 ajoute l'effet du marché du travail sur la redistribution primaire, puisque les inégalités en revenu disponible dépendant à la fois de ce que le système fiscalo-social vient corriger mais aussi des inégalités primaires.
-La réduction du chômage observée depuis 2017 a ainsi contribué à réduire les inégalités (primaires comme secondaires), ce qui vient encore atténuer l'effet contre-redistributif des réformes fiscales depuis 2017.
-Ces éléments peuvent permettre de comprendre pourquoi l'inégalité de revenu disponible[^5] ne s'est pas dégradée.
-La redistribution opérée par le système fiscalo-social a été renforcé -- par un transfert des retraités vers les actifs et par un accroissement des prestations aux plus pauvres, bien que les taux marginaux sur les plus hauts revenus aient été réduit --, provoquant un glissement vers le bas de la courbe pour la France.
-De plus, en France, les inégalités primaires ont été bien plus contenues que dans les autres pays -- une moindre polarisation du marché du travail, un salaire minimum plus élevé, une moindre explosion des hautes rémunérations en sont des explications partielles.
+L'analyse de l'OFCE du quinquennat 2017-2022 ajoute l'effet du marché du travail sur la redistribution primaire, puisque les inégalités en revenu disponible dépendant à la fois de ce que le système fiscalo-social vient corriger mais aussi des inégalités primaires. La réduction du chômage observée depuis 2017 a ainsi contribué à réduire les inégalités (primaires comme secondaires), ce qui vient encore atténuer l'effet contre-redistributif des réformes fiscales depuis 2017. Ces éléments peuvent permettre de comprendre pourquoi l'inégalité de revenu disponible[^5] ne s'est pas dégradée. La redistribution opérée par le système fiscalo-social a été renforcé -- par un transfert des retraités vers les actifs et par un accroissement des prestations aux plus pauvres, bien que les taux marginaux sur les plus hauts revenus aient été réduit --, provoquant un glissement vers le bas de la courbe pour la France. De plus, en France, les inégalités primaires ont été bien plus contenues que dans les autres pays -- une moindre polarisation du marché du travail, un salaire minimum plus élevé, une moindre explosion des hautes rémunérations en sont des explications partielles.
 
-[^5]: Le concept retenu n'inclut pas les redistributions opérées par la dépense publique qui ne sont pas des prestations individualisables.
-    On néglige donc l'effet de la dépense publique en éducation ou en santé.
-    La construction de ce concept demande des hypothèses fortes qui sont pour le moment peu différenciées d'un pays à l'autre.
-    Les évolutions du concept incluant les redistributions par la dépense publique sont proches de celui qui est employé ici.
-    Par ailleurs certaines prestations ne sont pas intégrées dans le revenu disponible (comme les APL en France par exemple).
+[^5]: Le concept retenu n'inclut pas les redistributions opérées par la dépense publique qui ne sont pas des prestations individualisables. On néglige donc l'effet de la dépense publique en éducation ou en santé. La construction de ce concept demande des hypothèses fortes qui sont pour le moment peu différenciées d'un pays à l'autre. Les évolutions du concept incluant les redistributions par la dépense publique sont proches de celui qui est employé ici. Par ailleurs certaines prestations ne sont pas intégrées dans le revenu disponible (comme les APL en France par exemple).
 
-A l'opposé de la France, aux Etats-Unis, sur cette même période de 30 ans la redistribution en termes relatifs a peu évolué mais les inégalités primaires se sont considérablement creusées.
-Le cas français dénote et rejoint l'exemple des Pays-Bas.
+A l'opposé de la France, aux Etats-Unis, sur cette même période de 30 ans la redistribution en termes relatifs a peu évolué mais les inégalités primaires se sont considérablement creusées. Le cas français dénote et rejoint l'exemple des Pays-Bas.
 
 ## Conclusion
 
-Les prélèvements obligatoires financent les dépenses qu'elles soient de transferts ou régalienne.
-Les effets sur l'économie sont donc complexes et difficile à comparer d'un pays à l'autre, d'autant que les normes de comptabilité publiques ne capturent pas les finesses de ce qui est une dépense publique ou de ce qui, par un détour de subvention partielle, de garantie implicite ou explicite ou d'incitation, produit un résultat proche, mais avec un budgétisation plus faible.
+Les prélèvements obligatoires financent les dépenses qu'elles soient de transferts ou régalienne. Les effets sur l'économie sont donc complexes et difficile à comparer d'un pays à l'autre, d'autant que les normes de comptabilité publiques ne capturent pas les finesses de ce qui est une dépense publique ou de ce qui, par un détour de subvention partielle, de garantie implicite ou explicite ou d'incitation, produit un résultat proche, mais avec un budgétisation plus faible.
 
-Lorsqu'on isole le financement de la protection sociale, la France a un taux de prélèvement proche de la moyenne des autres Etats membres de l'UE.
-La seule orientation politique ne suffit pas à expliquer les choix en matière d'évolution de la fiscalité.
-Non pas que la fiscalité est neutre politiquement -- le long débat français autour de l'impôt sur la fortune (ISF) en est un contre-exemple -- mais parce que les circonstances pèsent presque plus que les volontés.
+Lorsqu'on isole le financement de la protection sociale, la France a un taux de prélèvement proche de la moyenne des autres Etats membres de l'UE. La seule orientation politique ne suffit pas à expliquer les choix en matière d'évolution de la fiscalité. Non pas que la fiscalité est neutre politiquement -- le long débat français autour de l'impôt sur la fortune (ISF) en est un contre-exemple -- mais parce que les circonstances pèsent presque plus que les volontés.
 
-On retrouve l'observation de Paul Krugman lorsqu'il dénonçait la dangereuse obsession de la compétitivité[^6].
-Si les prélèvements obligatoires sont un déterminant de la compétitivité ou des choix de localisation de l'investissement ou des individus, leur effet premier est sur la capacité d'un pays à produire des richesses, par l'éducation, les infrastructures ou la sécurité et sur la cohésion sociale par une maîtrise des inégalités en particulier dans le contexte de la mondialisation.
-Ce qui peut expliquer pour l'effort considérable de gain de compétitivité par le CICE et le pacte de responsabilité ait peu d'effets.
+On retrouve l'observation de Paul Krugman lorsqu'il dénonçait la dangereuse obsession de la compétitivité[^6]. Si les prélèvements obligatoires sont un déterminant de la compétitivité ou des choix de localisation de l'investissement ou des individus, leur effet premier est sur la capacité d'un pays à produire des richesses, par l'éducation, les infrastructures ou la sécurité et sur la cohésion sociale par une maîtrise des inégalités en particulier dans le contexte de la mondialisation. Ce qui peut expliquer pour l'effort considérable de gain de compétitivité par le CICE et le pacte de responsabilité ait peu d'effets.
 
-[^6]: Krugman, Paul.
-    1994.
-    "Competitiveness: A DangerousObsession." Foreign Affairs 73 (2): 28.
-    https://doi.org/10.2307/20045917.
+[^6]: Krugman, Paul. 1994. "Competitiveness: A DangerousObsession." Foreign Affairs 73 (2): 28. https://doi.org/10.2307/20045917.
 
-Dans cette perspective, le système fiscalo-social apparaît singulier et, contrairement à des idées reçues, assez efficace.
-Il n'en reste pas moins que, par sa complexité et son inertie, tout système fiscal et social devient obsolète et illisible.
-Comment justifier le fort biais familialiste[^7], inchangé depuis l'après-guerre, de l'impôt sur le revenu ?
-Quelle est la logique de la taxation foncière qui pénalise les mutations mais exonère les plus-values ?
-Comment adapter la fiscalité à l'impératif d'atténuation du changement climatique sans pour autant le rendre illisible et faire apparaître des taux de prélèvements agrégés trop élevés ou, et c'est plus important, des taux de prélèvements marginaux trop grands pour telle ou telle catégorie d'individu ou de ménage ?
+Dans cette perspective, le système fiscalo-social apparaît singulier et, contrairement à des idées reçues, assez efficace. Il n'en reste pas moins que, par sa complexité et son inertie, tout système fiscal et social devient obsolète et illisible. Comment justifier le fort biais familialiste[^7], inchangé depuis l'après-guerre, de l'impôt sur le revenu ? Quelle est la logique de la taxation foncière qui pénalise les mutations mais exonère les plus-values ? Comment adapter la fiscalité à l'impératif d'atténuation du changement climatique sans pour autant le rendre illisible et faire apparaître des taux de prélèvements agrégés trop élevés ou, et c'est plus important, des taux de prélèvements marginaux trop grands pour telle ou telle catégorie d'individu ou de ménage ?
 
-[^7]: Si le quotient familial a été fortement plafonné, le quotient conjugal reste intouché et implique un transfert aux couples monoactifs ou aux couples dont les revenus diffèrent fortement.
-    Le traitement des couples divorcés est également ancré dans une conception ancienne et peine à intégrer une dimension essentielle de la société actuelle.
-    Voir Allègre, Périvier et Pucci, Imposition des couples et statut marital - simulations de 3 réformes du quotient conjugal en France, Economie et Statistiques, n°526-527, 2021.
+[^7]: Si le quotient familial a été fortement plafonné, le quotient conjugal reste intouché et implique un transfert aux couples monoactifs ou aux couples dont les revenus diffèrent fortement. Le traitement des couples divorcés est également ancré dans une conception ancienne et peine à intégrer une dimension essentielle de la société actuelle. Voir Allègre, Périvier et Pucci, Imposition des couples et statut marital - simulations de 3 réformes du quotient conjugal en France, Economie et Statistiques, n°526-527, 2021.
 
 Ces quelques questions illustrent que la singularité du système français n'implique pas le conservatisme fiscal et que rendre compte de l'ensemble de ces dimensions dépasse largement le cadre de cette contribution.
